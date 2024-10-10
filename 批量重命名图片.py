@@ -1,6 +1,5 @@
 """
 @author: 绯雨千叶
-Github:https://github.com/feiyuqianye/Python-Image-Processing-Scripts
 批量按顺序重命名文件夹中的图片文件
 """
 import os
